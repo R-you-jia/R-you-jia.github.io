@@ -1,0 +1,58 @@
+name: verify-worker
+on:
+  workflow_dispatch:
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: HTTP + cache header probes
+        run: |
+          W="https://portfolio-crt-interface.renyoujia.workers.dev"
+          echo "== homepage =="
+          curl -s -o /dev/null -w "code=%{http_code} len=%{size_download} t=%{time_total}s\n" -m 40 "$W/"
+          echo "== playable-builder index (cache?) =="
+          curl -s -D - -o /dev/null -m 40 "$W/playable-builder/index.html" | grep -iE "HTTP/|cache-control|content-type"
+          echo "== a versioned script (cache?) =="
+          curl -s -D - -o /dev/null -m 40 "$W/playable-builder/Scripts/custom/game_ui.js?20260211133943" | grep -iE "HTTP/|cache-control|content-type"
+          echo "== cards game bundle (must NOT be parsed as esm -> 200) =="
+          curl -s -o /dev/null -w "code=%{http_code} len=%{size_download}\n" -m 40 "$W/playable-cards/js/game-scripts.min.js"
+      - name: Chrome headless boot builder
+        run: |
+          npm i --no-save --silent puppeteer-core
+          python3 -m pip install --quiet pillow
+          CHROME=$(command -v google-chrome-stable || command -v google-chrome || echo /usr/bin/google-chrome)
+          cat > boot.js <<'EOF'
+          const puppeteer=require('puppeteer-core');
+          (async()=>{
+            const b=await puppeteer.launch({executablePath:process.env.CHROME,headless:true,
+              args:['--no-sandbox','--use-angle=swiftshader','--enable-unsafe-swiftshader']});
+            const pg=await b.newPage(); await pg.setViewport({width:420,height:760});
+            const fails=[]; const hung=new Map();
+            pg.on('response',r=>{ if(r.status()>=400) fails.push(r.status()+' '+r.url().slice(0,140)); });
+            pg.on('requestfinished',r=>hung.delete(r.url()));
+            pg.on('requestfailed',r=>fails.push('REQFAIL '+r.url().slice(0,140)));
+            pg.on('request',r=>hung.set(r.url(),1));
+            try{ await pg.goto('https://portfolio-crt-interface.renyoujia.workers.dev/playable-builder/index.html?loading=1&lang=en&preview=true&itavideo=2&vconsole=0&mw_test=0',{waitUntil:'domcontentloaded',timeout:45000}); }
+            catch(e){ console.log('goto-err',e.message.slice(0,120)); }
+            let t=0;
+            for(const s of [12,30]){ await new Promise(r=>setTimeout(r,(s-t)*1000)); t=s; await pg.screenshot({path:'shot'+s+'.png'}); }
+            console.log('HTTPFAILS',fails.length); fails.slice(0,20).forEach(f=>console.log(' ',f));
+            const stillHung=[...hung.entries()].filter(([u,ok])=>ok).length;
+            console.log('STILLHUNG',stillHung);
+            await b.close();
+          })();
+          EOF
+          CHROME="$CHROME" node boot.js
+      - name: Color analysis
+        run: |
+          python3 - <<'EOF'
+          from PIL import Image
+          for s in (12,30):
+              try:
+                  im=Image.open('shot%d.png'%s).convert('RGB').crop((0,220,420,720))
+                  n=len(im.getcolors(maxcolors=1000000) or [])
+                  px=list(im.getdata()); dark=sum(1 for p in px if sum(p)/3<40)/len(px)
+                  print('+%ds colors=%d darkpct=%.0f%%'%(s,n,dark*100))
+              except Exception as e: print('err',s,e)
+          EOF
