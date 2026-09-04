@@ -1,0 +1,80 @@
+{
+  "gameConfig": {
+    "extraConfig": {
+      "value": 0,
+      "min": 0,
+      "max": 20,
+      "interval": 1,
+      "type": "slider",
+      "priority": 0,
+      "title": "额外跳转机制",
+      "desc": "玩家第n次按下任意消除元素时，额外触发1次跳转商店，返回后可继续试玩。（0=关闭）",
+      "scene": "scene1_playing"
+    },
+    "totalObstacle": {
+      "value": 0,
+      "min": 0,
+      "max": 100,
+      "interval": 1,
+      "type": "slider",
+      "priority": 1,
+      "title": "目标障碍数",
+      "desc": "试玩过程中玩家总共需要消除的障碍数量，设置为0则胜利条件为使用完所有的消除步数",
+      "scene": "scene1_playing"
+    },
+    "maxSuccess": {
+      "value": 4,
+      "min": 1,
+      "max": 50,
+      "interval": 1,
+      "type": "slider",
+      "priority": 2,
+      "title": "消除步数限制",
+      "desc": "试玩过程中玩家最多可消除的次数",
+      "scene": "scene1_playing"
+    },
+    "pro": {
+      "value": "1：1：1：1",
+      "type": "input",
+      "priority": 3,
+      "title": "消除元素生成概率",
+      "desc": "需严格按照【n1:n2:n3:n4 = 消除元素A:消除元素B:消除元素C:消除元素D】的格式填写，否则将按随机概率生成处理。（数值越高，生成概率越高；数值=0，则不生成）",
+      "scene": "scene1_playing"
+    },
+    "autoTry": {
+      "value": "Enter endpage",
+      "options": [
+        "Enter endpage",
+        "Refresh"
+      ],
+      "type": "radio",
+      "priority": 4,
+      "title": "死局处理方式",
+      "desc": "当出现死局情况时，选择直接进入结束页或者重新洗牌棋盘。",
+      "scene": "scene1_playing"
+    },
+    "autoDeleteNum": {
+      "value": 10,
+      "min": 1,
+      "max": 100,
+      "interval": 1,
+      "type": "slider",
+      "priority": 5,
+      "title": "自动连消次数限制",
+      "desc": "当棋盘触发连续自动消除超过n次时，进入胜利结束页",
+      "scene": "scene1_playing"
+    },
+    "guide_time": {
+      "value": 5,
+      "min": 0,
+      "max": 50,
+      "interval": 0.1,
+      "unit": "s",
+      "type": "slider",
+      "priority": 6,
+      "title": "无操作指引出现时间",
+      "desc": "当玩家无操作时间超过n秒，出现额外无操作指引提示（0=关闭）",
+      "scene": "scene1_playing"
+    }
+  }
+}

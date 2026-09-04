@@ -1,0 +1,3313 @@
+{
+  "fallbackLocale": "en",
+  "currentLanguage": "en",
+  "languages": {
+    "en": {
+      "d81e6e05-9440-432b-8279-850cd9497a7e_V": {
+        "style": {
+          "bold": true,
+          "color": [
+            255,
+            132,
+            0,
+            1
+          ],
+          "deletelineColor": {
+            "_alpha": 1,
+            "_rgb": [
+              255,
+              132,
+              0
+            ]
+          },
+          "deletelineSpacing": 0,
+          "deletelineWidth": 1,
+          "enableDeleteline": false,
+          "enableGlow": false,
+          "enableShadow": false,
+          "enableUnderline": false,
+          "endColor": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "font": "KingnamBobo-Black",
+          "fontSize": 24,
+          "glowBlur": 1,
+          "glowColor": [
+            255,
+            0,
+            0,
+            1
+          ],
+          "gradient": false,
+          "italic": false,
+          "letterSpacing": 0,
+          "lineHeight": 1,
+          "lineSpacing": 0,
+          "shadowBlur": 10,
+          "shadowColor": [
+            0,
+            0,
+            0,
+            0.5019607843137255
+          ],
+          "shadowOffsetX": 3,
+          "shadowOffsetY": 3,
+          "startColor": [
+            255,
+            0,
+            0,
+            1
+          ],
+          "stroke": 11,
+          "strokeColor": [
+            255,
+            255,
+            255,
+            1
+          ],
+          "underlineColor": {
+            "_alpha": 1,
+            "_rgb": [
+              255,
+              132,
+              0
+            ]
+          },
+          "underlineSpacing": 0,
+          "underlineWidth": 1
+        },
+        "value": "x10",
+        "name": "text_X10",
+        "scene": "scene1_playing"
+      },
+      "d81e6e05-9440-432b-8279-850cd9497a7e_H": {
+        "style": {
+          "bold": true,
+          "color": [
+            255,
+            132,
+            0,
+            1
+          ],
+          "deletelineColor": {
+            "_alpha": 1,
+            "_rgb": [
+              255,
+              132,
+              0
+            ]
+          },
+          "deletelineSpacing": 0,
+          "deletelineWidth": 1,
+          "enableDeleteline": false,
+          "enableGlow": false,
+          "enableShadow": false,
+          "enableUnderline": false,
+          "endColor": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "font": "KingnamBobo-Black",
+          "fontSize": 24,
+          "glowBlur": 1,
+          "glowColor": [
+            255,
+            0,
+            0,
+            1
+          ],
+          "gradient": false,
+          "italic": false,
+          "letterSpacing": 0,
+          "lineHeight": 1,
+          "lineSpacing": 0,
+          "shadowBlur": 10,
+          "shadowColor": [
+            0,
+            0,
+            0,
+            0.5019607843137255
+          ],
+          "shadowOffsetX": 3,
+          "shadowOffsetY": 3,
+          "startColor": [
+            255,
+            0,
+            0,
+            1
+          ],
+          "stroke": 11,
+          "strokeColor": [
+            255,
+            255,
+            255,
+            1
+          ],
+          "underlineColor": {
+            "_alpha": 1,
+            "_rgb": [
+              255,
+              132,
+              0
+            ]
+          },
+          "underlineSpacing": 0,
+          "underlineWidth": 1
+        },
+        "value": "x10",
+        "name": "text_X10",
+        "scene": "scene1_playing"
+      },
+      "bbbffe92-4e2c-4b0c-bece-8fb04720e172_V": {
+        "style": {
+          "bold": true,
+          "color": [
+            255,
+            255,
+            255,
+            1
+          ],
+          "deletelineColor": {
+            "_alpha": 1,
+            "_rgb": [
+              255,
+              255,
+              255
+            ]
+          },
+          "deletelineSpacing": 0,
+          "deletelineWidth": 1,
+          "enableDeleteline": false,
+          "enableGlow": false,
+          "enableShadow": false,
+          "enableUnderline": false,
+          "endColor": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "font": "Arial",
+          "fontSize": 22,
+          "glowBlur": 1,
+          "glowColor": [
+            255,
+            0,
+            0,
+            1
+          ],
+          "gradient": false,
+          "italic": false,
+          "letterSpacing": 0,
+          "lineHeight": 1,
+          "lineSpacing": 0,
+          "shadowBlur": 10,
+          "shadowColor": [
+            0,
+            0,
+            0,
+            0.5019607843137255
+          ],
+          "shadowOffsetX": 3,
+          "shadowOffsetY": 3,
+          "startColor": [
+            255,
+            0,
+            0,
+            1
+          ],
+          "stroke": 0,
+          "strokeColor": [
+            255,
+            255,
+            255,
+            1
+          ],
+          "underlineColor": {
+            "_alpha": 1,
+            "_rgb": [
+              255,
+              255,
+              255
+            ]
+          },
+          "underlineSpacing": 0,
+          "underlineWidth": 1
+        },
+        "value": "Target",
+        "name": "text_Target",
+        "scene": "scene1_playing"
+      },
+      "bbbffe92-4e2c-4b0c-bece-8fb04720e172_H": {
+        "style": {
+          "bold": true,
+          "color": [
+            255,
+            255,
+            255,
+            1
+          ],
+          "deletelineColor": {
+            "_alpha": 1,
+            "_rgb": [
+              255,
+              255,
+              255
+            ]
+          },
+          "deletelineSpacing": 0,
+          "deletelineWidth": 1,
+          "enableDeleteline": false,
+          "enableGlow": false,
+          "enableShadow": false,
+          "enableUnderline": false,
+          "endColor": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "font": "Arial",
+          "fontSize": 22,
+          "glowBlur": 1,
+          "glowColor": [
+            255,
+            0,
+            0,
+            1
+          ],
+          "gradient": false,
+          "italic": false,
+          "letterSpacing": 0,
+          "lineHeight": 1,
+          "lineSpacing": 0,
+          "shadowBlur": 10,
+          "shadowColor": [
+            0,
+            0,
+            0,
+            0.5019607843137255
+          ],
+          "shadowOffsetX": 3,
+          "shadowOffsetY": 3,
+          "startColor": [
+            255,
+            0,
+            0,
+            1
+          ],
+          "stroke": 0,
+          "strokeColor": [
+            255,
+            255,
+            255,
+            1
+          ],
+          "underlineColor": {
+            "_alpha": 1,
+            "_rgb": [
+              255,
+              255,
+              255
+            ]
+          },
+          "underlineSpacing": 0,
+          "underlineWidth": 1
+        },
+        "value": "Target",
+        "name": "text_Target",
+        "scene": "scene1_playing"
+      },
+      "2c54ad69-e915-4efe-a2b7-bf0af39ad43f_V": {
+        "style": {
+          "bold": true,
+          "color": [
+            255,
+            255,
+            255,
+            1
+          ],
+          "deletelineColor": {
+            "_alpha": 1,
+            "_rgb": [
+              255,
+              255,
+              255
+            ]
+          },
+          "deletelineSpacing": 0,
+          "deletelineWidth": 1,
+          "enableDeleteline": false,
+          "enableGlow": false,
+          "enableShadow": false,
+          "enableUnderline": false,
+          "endColor": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "font": "Arial",
+          "fontSize": 22,
+          "glowBlur": 1,
+          "glowColor": [
+            255,
+            0,
+            0,
+            1
+          ],
+          "gradient": false,
+          "italic": false,
+          "letterSpacing": 0,
+          "lineHeight": 1,
+          "lineSpacing": 0,
+          "shadowBlur": 10,
+          "shadowColor": [
+            0,
+            0,
+            0,
+            0.5019607843137255
+          ],
+          "shadowOffsetX": 3,
+          "shadowOffsetY": 3,
+          "startColor": [
+            255,
+            0,
+            0,
+            1
+          ],
+          "stroke": 0,
+          "strokeColor": [
+            255,
+            255,
+            255,
+            1
+          ],
+          "underlineColor": {
+            "_alpha": 1,
+            "_rgb": [
+              255,
+              255,
+              255
+            ]
+          },
+          "underlineSpacing": 0,
+          "underlineWidth": 1
+        },
+        "value": "Moves",
+        "name": "text_Moves",
+        "scene": "scene1_playing"
+      },
+      "2c54ad69-e915-4efe-a2b7-bf0af39ad43f_H": {
+        "style": {
+          "bold": true,
+          "color": [
+            255,
+            255,
+            255,
+            1
+          ],
+          "deletelineColor": {
+            "_alpha": 1,
+            "_rgb": [
+              255,
+              255,
+              255
+            ]
+          },
+          "deletelineSpacing": 0,
+          "deletelineWidth": 1,
+          "enableDeleteline": false,
+          "enableGlow": false,
+          "enableShadow": false,
+          "enableUnderline": false,
+          "endColor": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "font": "Arial",
+          "fontSize": 22,
+          "glowBlur": 1,
+          "glowColor": [
+            255,
+            0,
+            0,
+            1
+          ],
+          "gradient": false,
+          "italic": false,
+          "letterSpacing": 0,
+          "lineHeight": 1,
+          "lineSpacing": 0,
+          "shadowBlur": 10,
+          "shadowColor": [
+            0,
+            0,
+            0,
+            0.5019607843137255
+          ],
+          "shadowOffsetX": 3,
+          "shadowOffsetY": 3,
+          "startColor": [
+            255,
+            0,
+            0,
+            1
+          ],
+          "stroke": 0,
+          "strokeColor": [
+            255,
+            255,
+            255,
+            1
+          ],
+          "underlineColor": {
+            "_alpha": 1,
+            "_rgb": [
+              255,
+              255,
+              255
+            ]
+          },
+          "underlineSpacing": 0,
+          "underlineWidth": 1
+        },
+        "value": "Moves",
+        "name": "text_Moves",
+        "scene": "scene1_playing"
+      },
+      "b73ad770-e84c-42a9-8293-963f2d38c03c_V": {
+        "style": {
+          "bold": true,
+          "color": [
+            132,
+            194,
+            106,
+            1
+          ],
+          "deletelineColor": {
+            "_alpha": 1,
+            "_rgb": [
+              132,
+              194,
+              106
+            ]
+          },
+          "deletelineSpacing": 0,
+          "deletelineWidth": 1,
+          "enableDeleteline": false,
+          "enableGlow": false,
+          "enableShadow": false,
+          "enableUnderline": false,
+          "endColor": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "font": "KingnamBobo-Black",
+          "fontSize": 24,
+          "glowBlur": 1,
+          "glowColor": [
+            255,
+            0,
+            0,
+            1
+          ],
+          "gradient": false,
+          "italic": false,
+          "letterSpacing": 0,
+          "lineHeight": 1,
+          "lineSpacing": 0,
+          "shadowBlur": 10,
+          "shadowColor": [
+            0,
+            0,
+            0,
+            0.5019607843137255
+          ],
+          "shadowOffsetX": 3,
+          "shadowOffsetY": 3,
+          "startColor": [
+            255,
+            0,
+            0,
+            1
+          ],
+          "stroke": 11,
+          "strokeColor": [
+            255,
+            255,
+            255,
+            1
+          ],
+          "underlineColor": {
+            "_alpha": 1,
+            "_rgb": [
+              132,
+              194,
+              106
+            ]
+          },
+          "underlineSpacing": 0,
+          "underlineWidth": 1
+        },
+        "value": "x0",
+        "name": "text_X4",
+        "scene": "scene1_playing"
+      },
+      "b73ad770-e84c-42a9-8293-963f2d38c03c_H": {
+        "style": {
+          "bold": true,
+          "color": [
+            132,
+            194,
+            106,
+            1
+          ],
+          "deletelineColor": {
+            "_alpha": 1,
+            "_rgb": [
+              132,
+              194,
+              106
+            ]
+          },
+          "deletelineSpacing": 0,
+          "deletelineWidth": 1,
+          "enableDeleteline": false,
+          "enableGlow": false,
+          "enableShadow": false,
+          "enableUnderline": false,
+          "endColor": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "font": "KingnamBobo-Black",
+          "fontSize": 24,
+          "glowBlur": 1,
+          "glowColor": [
+            255,
+            0,
+            0,
+            1
+          ],
+          "gradient": false,
+          "italic": false,
+          "letterSpacing": 0,
+          "lineHeight": 1,
+          "lineSpacing": 0,
+          "shadowBlur": 10,
+          "shadowColor": [
+            0,
+            0,
+            0,
+            0.5019607843137255
+          ],
+          "shadowOffsetX": 3,
+          "shadowOffsetY": 3,
+          "startColor": [
+            255,
+            0,
+            0,
+            1
+          ],
+          "stroke": 11,
+          "strokeColor": [
+            255,
+            255,
+            255,
+            1
+          ],
+          "underlineColor": {
+            "_alpha": 1,
+            "_rgb": [
+              132,
+              194,
+              106
+            ]
+          },
+          "underlineSpacing": 0,
+          "underlineWidth": 1
+        },
+        "value": "x0",
+        "name": "text_X4",
+        "scene": "scene1_playing"
+      },
+      "7f8c46d9-4c13-4edc-bd2b-e0b522331d69_V": {
+        "style": {
+          "fontSize": 48,
+          "color": [
+            40,
+            56,
+            71,
+            1
+          ],
+          "stroke": 0,
+          "strokeColor": [
+            40,
+            56,
+            71,
+            1
+          ],
+          "bold": true,
+          "italic": false,
+          "enableShadow": false,
+          "shadowColor": [
+            0,
+            0,
+            0,
+            0.5019607843137255
+          ],
+          "shadowBlur": 10,
+          "shadowOffsetX": 3,
+          "shadowOffsetY": 3,
+          "gradient": false,
+          "startColor": [
+            255,
+            0,
+            0,
+            1
+          ],
+          "endColor": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "enableGlow": false,
+          "glowColor": [
+            255,
+            0,
+            0,
+            1
+          ],
+          "glowBlur": 1,
+          "lineSpacing": 0,
+          "enableUnderline": false,
+          "underlineColor": {
+            "_alpha": 1,
+            "_rgb": [
+              40,
+              56,
+              71
+            ]
+          },
+          "underlineWidth": 1,
+          "underlineSpacing": 0,
+          "enableDeleteline": false,
+          "deletelineColor": {
+            "_alpha": 1,
+            "_rgb": [
+              40,
+              56,
+              71
+            ]
+          },
+          "deletelineWidth": 1,
+          "deletelineSpacing": 0,
+          "letterSpacing": 0,
+          "lineHeight": 1,
+          "font": "Arial"
+        },
+        "value": "Help us build it！",
+        "name": "text_Guidance",
+        "scene": "scene1_playing"
+      },
+      "7f8c46d9-4c13-4edc-bd2b-e0b522331d69_H": {
+        "style": {
+          "fontSize": 48,
+          "color": [
+            40,
+            56,
+            71,
+            1
+          ],
+          "stroke": 0,
+          "strokeColor": [
+            40,
+            56,
+            71,
+            1
+          ],
+          "bold": true,
+          "italic": false,
+          "enableShadow": false,
+          "shadowColor": [
+            0,
+            0,
+            0,
+            0.5019607843137255
+          ],
+          "shadowBlur": 10,
+          "shadowOffsetX": 3,
+          "shadowOffsetY": 3,
+          "gradient": false,
+          "startColor": [
+            255,
+            0,
+            0,
+            1
+          ],
+          "endColor": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "enableGlow": false,
+          "glowColor": [
+            255,
+            0,
+            0,
+            1
+          ],
+          "glowBlur": 1,
+          "lineSpacing": 0,
+          "enableUnderline": false,
+          "underlineColor": {
+            "_alpha": 1,
+            "_rgb": [
+              40,
+              56,
+              71
+            ]
+          },
+          "underlineWidth": 1,
+          "underlineSpacing": 0,
+          "enableDeleteline": false,
+          "deletelineColor": {
+            "_alpha": 1,
+            "_rgb": [
+              40,
+              56,
+              71
+            ]
+          },
+          "deletelineWidth": 1,
+          "deletelineSpacing": 0,
+          "letterSpacing": 0,
+          "lineHeight": 1,
+          "font": "Arial"
+        },
+        "value": "Help us build it！",
+        "name": "text_Guidance",
+        "scene": "scene1_playing"
+      },
+      "02a13a26-a4ce-4f6e-8b2c-7d4b58230aaf_V": {
+        "style": {
+          "bold": true,
+          "color": [
+            255,
+            255,
+            255,
+            1
+          ],
+          "deletelineColor": {
+            "_alpha": 1,
+            "_rgb": [
+              255,
+              255,
+              255
+            ]
+          },
+          "deletelineSpacing": 0,
+          "deletelineWidth": 1,
+          "enableDeleteline": false,
+          "enableGlow": false,
+          "enableShadow": false,
+          "enableUnderline": false,
+          "endColor": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "font": "Arial",
+          "fontSize": 32,
+          "glowBlur": 1,
+          "glowColor": [
+            255,
+            0,
+            0,
+            1
+          ],
+          "gradient": false,
+          "italic": false,
+          "letterSpacing": 0,
+          "lineHeight": 1,
+          "lineSpacing": 0,
+          "shadowBlur": 10,
+          "shadowColor": [
+            0,
+            0,
+            0,
+            0.5019607843137255
+          ],
+          "shadowOffsetX": 3,
+          "shadowOffsetY": 3,
+          "startColor": [
+            255,
+            0,
+            0,
+            1
+          ],
+          "stroke": 0,
+          "strokeColor": [
+            220,
+            193,
+            145,
+            1
+          ],
+          "underlineColor": {
+            "_alpha": 1,
+            "_rgb": [
+              255,
+              255,
+              255
+            ]
+          },
+          "underlineSpacing": 0,
+          "underlineWidth": 1
+        },
+        "value": "Match3 to collect books",
+        "name": "text_Guidance",
+        "scene": "scene2_endwin"
+      },
+      "02a13a26-a4ce-4f6e-8b2c-7d4b58230aaf_H": {
+        "style": {
+          "bold": true,
+          "color": [
+            255,
+            255,
+            255,
+            1
+          ],
+          "deletelineColor": {
+            "_alpha": 1,
+            "_rgb": [
+              255,
+              255,
+              255
+            ]
+          },
+          "deletelineSpacing": 0,
+          "deletelineWidth": 1,
+          "enableDeleteline": false,
+          "enableGlow": false,
+          "enableShadow": false,
+          "enableUnderline": false,
+          "endColor": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "font": "Arial",
+          "fontSize": 32,
+          "glowBlur": 1,
+          "glowColor": [
+            255,
+            0,
+            0,
+            1
+          ],
+          "gradient": false,
+          "italic": false,
+          "letterSpacing": 0,
+          "lineHeight": 1,
+          "lineSpacing": 0,
+          "shadowBlur": 10,
+          "shadowColor": [
+            0,
+            0,
+            0,
+            0.5019607843137255
+          ],
+          "shadowOffsetX": 3,
+          "shadowOffsetY": 3,
+          "startColor": [
+            255,
+            0,
+            0,
+            1
+          ],
+          "stroke": 0,
+          "strokeColor": [
+            220,
+            193,
+            145,
+            1
+          ],
+          "underlineColor": {
+            "_alpha": 1,
+            "_rgb": [
+              255,
+              255,
+              255
+            ]
+          },
+          "underlineSpacing": 0,
+          "underlineWidth": 1
+        },
+        "value": "Match3 to collect books",
+        "name": "text_Guidance",
+        "scene": "scene2_endwin"
+      },
+      "29f6bbf9-5817-4e03-bb93-6229f4b24e93_V": {
+        "style": {
+          "bold": true,
+          "color": [
+            255,
+            132,
+            0,
+            1
+          ],
+          "deletelineColor": {
+            "_alpha": 1,
+            "_rgb": [
+              255,
+              132,
+              0
+            ]
+          },
+          "deletelineSpacing": 0,
+          "deletelineWidth": 1,
+          "enableDeleteline": false,
+          "enableGlow": false,
+          "enableShadow": false,
+          "enableUnderline": false,
+          "endColor": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "font": "KingnamBobo-Black",
+          "fontSize": 24,
+          "glowBlur": 1,
+          "glowColor": [
+            255,
+            0,
+            0,
+            1
+          ],
+          "gradient": false,
+          "italic": false,
+          "letterSpacing": 0,
+          "lineHeight": 1,
+          "lineSpacing": 0,
+          "shadowBlur": 10,
+          "shadowColor": [
+            0,
+            0,
+            0,
+            0.5019607843137255
+          ],
+          "shadowOffsetX": 3,
+          "shadowOffsetY": 3,
+          "startColor": [
+            255,
+            0,
+            0,
+            1
+          ],
+          "stroke": 11,
+          "strokeColor": [
+            255,
+            255,
+            255,
+            1
+          ],
+          "underlineColor": {
+            "_alpha": 1,
+            "_rgb": [
+              255,
+              132,
+              0
+            ]
+          },
+          "underlineSpacing": 0,
+          "underlineWidth": 1
+        },
+        "value": "x10",
+        "name": "text_X10",
+        "scene": "scene2_endwin"
+      },
+      "29f6bbf9-5817-4e03-bb93-6229f4b24e93_H": {
+        "style": {
+          "bold": true,
+          "color": [
+            255,
+            132,
+            0,
+            1
+          ],
+          "deletelineColor": {
+            "_alpha": 1,
+            "_rgb": [
+              255,
+              132,
+              0
+            ]
+          },
+          "deletelineSpacing": 0,
+          "deletelineWidth": 1,
+          "enableDeleteline": false,
+          "enableGlow": false,
+          "enableShadow": false,
+          "enableUnderline": false,
+          "endColor": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "font": "KingnamBobo-Black",
+          "fontSize": 24,
+          "glowBlur": 1,
+          "glowColor": [
+            255,
+            0,
+            0,
+            1
+          ],
+          "gradient": false,
+          "italic": false,
+          "letterSpacing": 0,
+          "lineHeight": 1,
+          "lineSpacing": 0,
+          "shadowBlur": 10,
+          "shadowColor": [
+            0,
+            0,
+            0,
+            0.5019607843137255
+          ],
+          "shadowOffsetX": 3,
+          "shadowOffsetY": 3,
+          "startColor": [
+            255,
+            0,
+            0,
+            1
+          ],
+          "stroke": 11,
+          "strokeColor": [
+            255,
+            255,
+            255,
+            1
+          ],
+          "underlineColor": {
+            "_alpha": 1,
+            "_rgb": [
+              255,
+              132,
+              0
+            ]
+          },
+          "underlineSpacing": 0,
+          "underlineWidth": 1
+        },
+        "value": "x10",
+        "name": "text_X10",
+        "scene": "scene2_endwin"
+      },
+      "4ad9cda1-8c95-4c8d-b80c-3a58770d6e5c_V": {
+        "style": {
+          "bold": true,
+          "color": [
+            255,
+            255,
+            255,
+            1
+          ],
+          "deletelineColor": {
+            "_alpha": 1,
+            "_rgb": [
+              255,
+              255,
+              255
+            ]
+          },
+          "deletelineSpacing": 0,
+          "deletelineWidth": 1,
+          "enableDeleteline": false,
+          "enableGlow": false,
+          "enableShadow": false,
+          "enableUnderline": false,
+          "endColor": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "font": "Arial",
+          "fontSize": 22,
+          "glowBlur": 1,
+          "glowColor": [
+            255,
+            0,
+            0,
+            1
+          ],
+          "gradient": false,
+          "italic": false,
+          "letterSpacing": 0,
+          "lineHeight": 1,
+          "lineSpacing": 0,
+          "shadowBlur": 10,
+          "shadowColor": [
+            0,
+            0,
+            0,
+            0.5019607843137255
+          ],
+          "shadowOffsetX": 3,
+          "shadowOffsetY": 3,
+          "startColor": [
+            255,
+            0,
+            0,
+            1
+          ],
+          "stroke": 0,
+          "strokeColor": [
+            255,
+            255,
+            255,
+            1
+          ],
+          "underlineColor": {
+            "_alpha": 1,
+            "_rgb": [
+              255,
+              255,
+              255
+            ]
+          },
+          "underlineSpacing": 0,
+          "underlineWidth": 1
+        },
+        "value": "Target",
+        "name": "text_Target",
+        "scene": "scene2_endwin"
+      },
+      "4ad9cda1-8c95-4c8d-b80c-3a58770d6e5c_H": {
+        "style": {
+          "bold": true,
+          "color": [
+            255,
+            255,
+            255,
+            1
+          ],
+          "deletelineColor": {
+            "_alpha": 1,
+            "_rgb": [
+              255,
+              255,
+              255
+            ]
+          },
+          "deletelineSpacing": 0,
+          "deletelineWidth": 1,
+          "enableDeleteline": false,
+          "enableGlow": false,
+          "enableShadow": false,
+          "enableUnderline": false,
+          "endColor": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "font": "Arial",
+          "fontSize": 22,
+          "glowBlur": 1,
+          "glowColor": [
+            255,
+            0,
+            0,
+            1
+          ],
+          "gradient": false,
+          "italic": false,
+          "letterSpacing": 0,
+          "lineHeight": 1,
+          "lineSpacing": 0,
+          "shadowBlur": 10,
+          "shadowColor": [
+            0,
+            0,
+            0,
+            0.5019607843137255
+          ],
+          "shadowOffsetX": 3,
+          "shadowOffsetY": 3,
+          "startColor": [
+            255,
+            0,
+            0,
+            1
+          ],
+          "stroke": 0,
+          "strokeColor": [
+            255,
+            255,
+            255,
+            1
+          ],
+          "underlineColor": {
+            "_alpha": 1,
+            "_rgb": [
+              255,
+              255,
+              255
+            ]
+          },
+          "underlineSpacing": 0,
+          "underlineWidth": 1
+        },
+        "value": "Target",
+        "name": "text_Target",
+        "scene": "scene2_endwin"
+      },
+      "a224ef9b-a8a2-4922-884e-83751232c4ce_V": {
+        "style": {
+          "bold": true,
+          "color": [
+            255,
+            255,
+            255,
+            1
+          ],
+          "deletelineColor": {
+            "_alpha": 1,
+            "_rgb": [
+              255,
+              255,
+              255
+            ]
+          },
+          "deletelineSpacing": 0,
+          "deletelineWidth": 1,
+          "enableDeleteline": false,
+          "enableGlow": false,
+          "enableShadow": false,
+          "enableUnderline": false,
+          "endColor": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "font": "Arial",
+          "fontSize": 22,
+          "glowBlur": 1,
+          "glowColor": [
+            255,
+            0,
+            0,
+            1
+          ],
+          "gradient": false,
+          "italic": false,
+          "letterSpacing": 0,
+          "lineHeight": 1,
+          "lineSpacing": 0,
+          "shadowBlur": 10,
+          "shadowColor": [
+            0,
+            0,
+            0,
+            0.5019607843137255
+          ],
+          "shadowOffsetX": 3,
+          "shadowOffsetY": 3,
+          "startColor": [
+            255,
+            0,
+            0,
+            1
+          ],
+          "stroke": 0,
+          "strokeColor": [
+            255,
+            255,
+            255,
+            1
+          ],
+          "underlineColor": {
+            "_alpha": 1,
+            "_rgb": [
+              255,
+              255,
+              255
+            ]
+          },
+          "underlineSpacing": 0,
+          "underlineWidth": 1
+        },
+        "value": "Moves",
+        "name": "text_Moves",
+        "scene": "scene2_endwin"
+      },
+      "a224ef9b-a8a2-4922-884e-83751232c4ce_H": {
+        "style": {
+          "bold": true,
+          "color": [
+            255,
+            255,
+            255,
+            1
+          ],
+          "deletelineColor": {
+            "_alpha": 1,
+            "_rgb": [
+              255,
+              255,
+              255
+            ]
+          },
+          "deletelineSpacing": 0,
+          "deletelineWidth": 1,
+          "enableDeleteline": false,
+          "enableGlow": false,
+          "enableShadow": false,
+          "enableUnderline": false,
+          "endColor": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "font": "Arial",
+          "fontSize": 22,
+          "glowBlur": 1,
+          "glowColor": [
+            255,
+            0,
+            0,
+            1
+          ],
+          "gradient": false,
+          "italic": false,
+          "letterSpacing": 0,
+          "lineHeight": 1,
+          "lineSpacing": 0,
+          "shadowBlur": 10,
+          "shadowColor": [
+            0,
+            0,
+            0,
+            0.5019607843137255
+          ],
+          "shadowOffsetX": 3,
+          "shadowOffsetY": 3,
+          "startColor": [
+            255,
+            0,
+            0,
+            1
+          ],
+          "stroke": 0,
+          "strokeColor": [
+            255,
+            255,
+            255,
+            1
+          ],
+          "underlineColor": {
+            "_alpha": 1,
+            "_rgb": [
+              255,
+              255,
+              255
+            ]
+          },
+          "underlineSpacing": 0,
+          "underlineWidth": 1
+        },
+        "value": "Moves",
+        "name": "text_Moves",
+        "scene": "scene2_endwin"
+      },
+      "e17f313b-ba83-40db-8862-1ef7037a39c0_V": {
+        "style": {
+          "bold": true,
+          "color": [
+            132,
+            194,
+            106,
+            1
+          ],
+          "deletelineColor": {
+            "_alpha": 1,
+            "_rgb": [
+              132,
+              194,
+              106
+            ]
+          },
+          "deletelineSpacing": 0,
+          "deletelineWidth": 1,
+          "enableDeleteline": false,
+          "enableGlow": false,
+          "enableShadow": false,
+          "enableUnderline": false,
+          "endColor": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "font": "KingnamBobo-Black",
+          "fontSize": 24,
+          "glowBlur": 1,
+          "glowColor": [
+            255,
+            0,
+            0,
+            1
+          ],
+          "gradient": false,
+          "italic": false,
+          "letterSpacing": 0,
+          "lineHeight": 1,
+          "lineSpacing": 0,
+          "shadowBlur": 10,
+          "shadowColor": [
+            0,
+            0,
+            0,
+            0.5019607843137255
+          ],
+          "shadowOffsetX": 3,
+          "shadowOffsetY": 3,
+          "startColor": [
+            255,
+            0,
+            0,
+            1
+          ],
+          "stroke": 11,
+          "strokeColor": [
+            255,
+            255,
+            255,
+            1
+          ],
+          "underlineColor": {
+            "_alpha": 1,
+            "_rgb": [
+              132,
+              194,
+              106
+            ]
+          },
+          "underlineSpacing": 0,
+          "underlineWidth": 1
+        },
+        "value": "x0",
+        "name": "text_X4",
+        "scene": "scene2_endwin"
+      },
+      "e17f313b-ba83-40db-8862-1ef7037a39c0_H": {
+        "style": {
+          "bold": true,
+          "color": [
+            132,
+            194,
+            106,
+            1
+          ],
+          "deletelineColor": {
+            "_alpha": 1,
+            "_rgb": [
+              132,
+              194,
+              106
+            ]
+          },
+          "deletelineSpacing": 0,
+          "deletelineWidth": 1,
+          "enableDeleteline": false,
+          "enableGlow": false,
+          "enableShadow": false,
+          "enableUnderline": false,
+          "endColor": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "font": "KingnamBobo-Black",
+          "fontSize": 24,
+          "glowBlur": 1,
+          "glowColor": [
+            255,
+            0,
+            0,
+            1
+          ],
+          "gradient": false,
+          "italic": false,
+          "letterSpacing": 0,
+          "lineHeight": 1,
+          "lineSpacing": 0,
+          "shadowBlur": 10,
+          "shadowColor": [
+            0,
+            0,
+            0,
+            0.5019607843137255
+          ],
+          "shadowOffsetX": 3,
+          "shadowOffsetY": 3,
+          "startColor": [
+            255,
+            0,
+            0,
+            1
+          ],
+          "stroke": 11,
+          "strokeColor": [
+            255,
+            255,
+            255,
+            1
+          ],
+          "underlineColor": {
+            "_alpha": 1,
+            "_rgb": [
+              132,
+              194,
+              106
+            ]
+          },
+          "underlineSpacing": 0,
+          "underlineWidth": 1
+        },
+        "value": "x0",
+        "name": "text_X4",
+        "scene": "scene2_endwin"
+      },
+      "7fc91f50-b9c9-466f-8496-88c4c3b5efa7_V": {
+        "style": {
+          "bold": false,
+          "color": [
+            51,
+            51,
+            51,
+            1
+          ],
+          "deletelineColor": [],
+          "deletelineSpacing": 0,
+          "deletelineWidth": 1,
+          "enableDeleteline": false,
+          "enableGlow": false,
+          "enableShadow": false,
+          "enableUnderline": false,
+          "endColor": [
+            234,
+            85,
+            28,
+            1
+          ],
+          "font": "KingnamBobo-Black",
+          "fontSize": 48,
+          "glowBlur": 1,
+          "glowColor": [
+            255,
+            0,
+            0,
+            1
+          ],
+          "gradient": true,
+          "italic": false,
+          "letterSpacing": 0,
+          "lineHeight": 1,
+          "lineSpacing": 0,
+          "shadowBlur": 10,
+          "shadowColor": [
+            0,
+            0,
+            0,
+            0.5019607843137255
+          ],
+          "shadowOffsetX": 3,
+          "shadowOffsetY": 3,
+          "startColor": [
+            255,
+            166,
+            57,
+            1
+          ],
+          "stroke": 0,
+          "strokeColor": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "underlineColor": [],
+          "underlineSpacing": 0,
+          "underlineWidth": 1
+        },
+        "value": "Level clear!",
+        "name": "text_Levelclear！",
+        "scene": "scene2_endwin"
+      },
+      "7fc91f50-b9c9-466f-8496-88c4c3b5efa7_H": {
+        "style": {
+          "bold": false,
+          "color": [
+            51,
+            51,
+            51,
+            1
+          ],
+          "deletelineColor": [],
+          "deletelineSpacing": 0,
+          "deletelineWidth": 1,
+          "enableDeleteline": false,
+          "enableGlow": false,
+          "enableShadow": false,
+          "enableUnderline": false,
+          "endColor": [
+            234,
+            85,
+            28,
+            1
+          ],
+          "font": "KingnamBobo-Black",
+          "fontSize": 48,
+          "glowBlur": 1,
+          "glowColor": [
+            255,
+            0,
+            0,
+            1
+          ],
+          "gradient": true,
+          "italic": false,
+          "letterSpacing": 0,
+          "lineHeight": 1,
+          "lineSpacing": 0,
+          "shadowBlur": 10,
+          "shadowColor": [
+            0,
+            0,
+            0,
+            0.5019607843137255
+          ],
+          "shadowOffsetX": 3,
+          "shadowOffsetY": 3,
+          "startColor": [
+            255,
+            166,
+            57,
+            1
+          ],
+          "stroke": 0,
+          "strokeColor": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "underlineColor": [],
+          "underlineSpacing": 0,
+          "underlineWidth": 1
+        },
+        "value": "Level clear!",
+        "name": "text_Levelclear！",
+        "scene": "scene2_endwin"
+      },
+      "f68042ea-70e3-4b8f-bd39-30f25c51e1d8_V": {
+        "style": {
+          "bold": true,
+          "color": [
+            255,
+            255,
+            255,
+            1
+          ],
+          "deletelineColor": {
+            "_alpha": 1,
+            "_rgb": [
+              255,
+              255,
+              255
+            ]
+          },
+          "deletelineSpacing": 0,
+          "deletelineWidth": 1,
+          "enableDeleteline": false,
+          "enableGlow": false,
+          "enableShadow": false,
+          "enableUnderline": false,
+          "endColor": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "font": "Arial",
+          "fontSize": 54,
+          "glowBlur": 1,
+          "glowColor": [
+            255,
+            0,
+            0,
+            1
+          ],
+          "gradient": false,
+          "italic": false,
+          "letterSpacing": 0,
+          "lineHeight": 1,
+          "lineSpacing": 0,
+          "shadowBlur": 10,
+          "shadowColor": [
+            0,
+            0,
+            0,
+            0.5019607843137255
+          ],
+          "shadowOffsetX": 3,
+          "shadowOffsetY": 3,
+          "startColor": [
+            255,
+            0,
+            0,
+            1
+          ],
+          "stroke": 0,
+          "strokeColor": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "underlineColor": {
+            "_alpha": 1,
+            "_rgb": [
+              255,
+              255,
+              255
+            ]
+          },
+          "underlineSpacing": 0,
+          "underlineWidth": 1
+        },
+        "value": "Next",
+        "name": "text_nextlevel",
+        "scene": "scene2_endwin"
+      },
+      "f68042ea-70e3-4b8f-bd39-30f25c51e1d8_H": {
+        "style": {
+          "bold": true,
+          "color": [
+            255,
+            255,
+            255,
+            1
+          ],
+          "deletelineColor": {
+            "_alpha": 1,
+            "_rgb": [
+              255,
+              255,
+              255
+            ]
+          },
+          "deletelineSpacing": 0,
+          "deletelineWidth": 1,
+          "enableDeleteline": false,
+          "enableGlow": false,
+          "enableShadow": false,
+          "enableUnderline": false,
+          "endColor": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "font": "Arial",
+          "fontSize": 54,
+          "glowBlur": 1,
+          "glowColor": [
+            255,
+            0,
+            0,
+            1
+          ],
+          "gradient": false,
+          "italic": false,
+          "letterSpacing": 0,
+          "lineHeight": 1,
+          "lineSpacing": 0,
+          "shadowBlur": 10,
+          "shadowColor": [
+            0,
+            0,
+            0,
+            0.5019607843137255
+          ],
+          "shadowOffsetX": 3,
+          "shadowOffsetY": 3,
+          "startColor": [
+            255,
+            0,
+            0,
+            1
+          ],
+          "stroke": 0,
+          "strokeColor": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "underlineColor": {
+            "_alpha": 1,
+            "_rgb": [
+              255,
+              255,
+              255
+            ]
+          },
+          "underlineSpacing": 0,
+          "underlineWidth": 1
+        },
+        "value": "Next",
+        "name": "text_nextlevel",
+        "scene": "scene2_endwin"
+      },
+      "83ab9b91-6da5-4b32-ad0b-b001ecbe5056_V": {
+        "style": {
+          "fontSize": 56,
+          "color": [
+            255,
+            255,
+            255,
+            1
+          ],
+          "stroke": 8,
+          "strokeColor": [
+            80,
+            56,
+            5,
+            1
+          ],
+          "bold": true,
+          "italic": false,
+          "enableShadow": false,
+          "shadowColor": [
+            0,
+            0,
+            0,
+            0.5019607843137255
+          ],
+          "shadowBlur": 10,
+          "shadowOffsetX": 3,
+          "shadowOffsetY": 3,
+          "gradient": false,
+          "startColor": [
+            255,
+            0,
+            0,
+            1
+          ],
+          "endColor": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "enableGlow": false,
+          "glowColor": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "glowBlur": 1,
+          "lineSpacing": 0,
+          "enableUnderline": false,
+          "underlineColor": {
+            "_alpha": 1,
+            "_rgb": [
+              255,
+              255,
+              255
+            ]
+          },
+          "underlineWidth": 1,
+          "underlineSpacing": 0,
+          "enableDeleteline": false,
+          "deletelineColor": {
+            "_alpha": 1,
+            "_rgb": [
+              255,
+              255,
+              255
+            ]
+          },
+          "deletelineWidth": 1,
+          "deletelineSpacing": 0,
+          "letterSpacing": 0,
+          "lineHeight": 1,
+          "font": "Arial"
+        },
+        "value": "Click to continue",
+        "name": "text_20",
+        "scene": "scene2_endwin"
+      },
+      "83ab9b91-6da5-4b32-ad0b-b001ecbe5056_H": {
+        "style": {
+          "fontSize": 56,
+          "color": [
+            255,
+            255,
+            255,
+            1
+          ],
+          "stroke": 8,
+          "strokeColor": [
+            80,
+            56,
+            5,
+            1
+          ],
+          "bold": true,
+          "italic": false,
+          "enableShadow": false,
+          "shadowColor": [
+            0,
+            0,
+            0,
+            0.5019607843137255
+          ],
+          "shadowBlur": 10,
+          "shadowOffsetX": 3,
+          "shadowOffsetY": 3,
+          "gradient": false,
+          "startColor": [
+            255,
+            0,
+            0,
+            1
+          ],
+          "endColor": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "enableGlow": false,
+          "glowColor": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "glowBlur": 1,
+          "lineSpacing": 0,
+          "enableUnderline": false,
+          "underlineColor": {
+            "_alpha": 1,
+            "_rgb": [
+              255,
+              255,
+              255
+            ]
+          },
+          "underlineWidth": 1,
+          "underlineSpacing": 0,
+          "enableDeleteline": false,
+          "deletelineColor": {
+            "_alpha": 1,
+            "_rgb": [
+              255,
+              255,
+              255
+            ]
+          },
+          "deletelineWidth": 1,
+          "deletelineSpacing": 0,
+          "letterSpacing": 0,
+          "lineHeight": 1,
+          "font": "Arial"
+        },
+        "value": "Click to continue",
+        "name": "text_20",
+        "scene": "scene2_endwin"
+      },
+      "ec4cefee-b014-46eb-8307-f1ff1baad3c4_V": {
+        "style": {
+          "bold": true,
+          "color": [
+            255,
+            132,
+            0,
+            1
+          ],
+          "deletelineColor": {
+            "_alpha": 1,
+            "_rgb": [
+              255,
+              132,
+              0
+            ]
+          },
+          "deletelineSpacing": 0,
+          "deletelineWidth": 1,
+          "enableDeleteline": false,
+          "enableGlow": false,
+          "enableShadow": false,
+          "enableUnderline": false,
+          "endColor": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "font": "KingnamBobo-Black",
+          "fontSize": 24,
+          "glowBlur": 1,
+          "glowColor": [
+            255,
+            0,
+            0,
+            1
+          ],
+          "gradient": false,
+          "italic": false,
+          "letterSpacing": 0,
+          "lineHeight": 1,
+          "lineSpacing": 0,
+          "shadowBlur": 10,
+          "shadowColor": [
+            0,
+            0,
+            0,
+            0.5019607843137255
+          ],
+          "shadowOffsetX": 3,
+          "shadowOffsetY": 3,
+          "startColor": [
+            255,
+            0,
+            0,
+            1
+          ],
+          "stroke": 11,
+          "strokeColor": [
+            255,
+            255,
+            255,
+            1
+          ],
+          "underlineColor": {
+            "_alpha": 1,
+            "_rgb": [
+              255,
+              132,
+              0
+            ]
+          },
+          "underlineSpacing": 0,
+          "underlineWidth": 1
+        },
+        "value": "x10",
+        "name": "text_X10",
+        "scene": "scene3_endfail"
+      },
+      "ec4cefee-b014-46eb-8307-f1ff1baad3c4_H": {
+        "style": {
+          "bold": true,
+          "color": [
+            255,
+            132,
+            0,
+            1
+          ],
+          "deletelineColor": {
+            "_alpha": 1,
+            "_rgb": [
+              255,
+              132,
+              0
+            ]
+          },
+          "deletelineSpacing": 0,
+          "deletelineWidth": 1,
+          "enableDeleteline": false,
+          "enableGlow": false,
+          "enableShadow": false,
+          "enableUnderline": false,
+          "endColor": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "font": "KingnamBobo-Black",
+          "fontSize": 24,
+          "glowBlur": 1,
+          "glowColor": [
+            255,
+            0,
+            0,
+            1
+          ],
+          "gradient": false,
+          "italic": false,
+          "letterSpacing": 0,
+          "lineHeight": 1,
+          "lineSpacing": 0,
+          "shadowBlur": 10,
+          "shadowColor": [
+            0,
+            0,
+            0,
+            0.5019607843137255
+          ],
+          "shadowOffsetX": 3,
+          "shadowOffsetY": 3,
+          "startColor": [
+            255,
+            0,
+            0,
+            1
+          ],
+          "stroke": 11,
+          "strokeColor": [
+            255,
+            255,
+            255,
+            1
+          ],
+          "underlineColor": {
+            "_alpha": 1,
+            "_rgb": [
+              255,
+              132,
+              0
+            ]
+          },
+          "underlineSpacing": 0,
+          "underlineWidth": 1
+        },
+        "value": "x10",
+        "name": "text_X10",
+        "scene": "scene3_endfail"
+      },
+      "a0184463-ce91-4ddd-bc79-4a588b45c696_V": {
+        "style": {
+          "bold": true,
+          "color": [
+            255,
+            255,
+            255,
+            1
+          ],
+          "deletelineColor": {
+            "_alpha": 1,
+            "_rgb": [
+              255,
+              255,
+              255
+            ]
+          },
+          "deletelineSpacing": 0,
+          "deletelineWidth": 1,
+          "enableDeleteline": false,
+          "enableGlow": false,
+          "enableShadow": false,
+          "enableUnderline": false,
+          "endColor": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "font": "Arial",
+          "fontSize": 22,
+          "glowBlur": 1,
+          "glowColor": [
+            255,
+            0,
+            0,
+            1
+          ],
+          "gradient": false,
+          "italic": false,
+          "letterSpacing": 0,
+          "lineHeight": 1,
+          "lineSpacing": 0,
+          "shadowBlur": 10,
+          "shadowColor": [
+            0,
+            0,
+            0,
+            0.5019607843137255
+          ],
+          "shadowOffsetX": 3,
+          "shadowOffsetY": 3,
+          "startColor": [
+            255,
+            0,
+            0,
+            1
+          ],
+          "stroke": 0,
+          "strokeColor": [
+            255,
+            255,
+            255,
+            1
+          ],
+          "underlineColor": {
+            "_alpha": 1,
+            "_rgb": [
+              255,
+              255,
+              255
+            ]
+          },
+          "underlineSpacing": 0,
+          "underlineWidth": 1
+        },
+        "value": "Target",
+        "name": "text_Target",
+        "scene": "scene3_endfail"
+      },
+      "a0184463-ce91-4ddd-bc79-4a588b45c696_H": {
+        "style": {
+          "bold": true,
+          "color": [
+            255,
+            255,
+            255,
+            1
+          ],
+          "deletelineColor": {
+            "_alpha": 1,
+            "_rgb": [
+              255,
+              255,
+              255
+            ]
+          },
+          "deletelineSpacing": 0,
+          "deletelineWidth": 1,
+          "enableDeleteline": false,
+          "enableGlow": false,
+          "enableShadow": false,
+          "enableUnderline": false,
+          "endColor": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "font": "Arial",
+          "fontSize": 22,
+          "glowBlur": 1,
+          "glowColor": [
+            255,
+            0,
+            0,
+            1
+          ],
+          "gradient": false,
+          "italic": false,
+          "letterSpacing": 0,
+          "lineHeight": 1,
+          "lineSpacing": 0,
+          "shadowBlur": 10,
+          "shadowColor": [
+            0,
+            0,
+            0,
+            0.5019607843137255
+          ],
+          "shadowOffsetX": 3,
+          "shadowOffsetY": 3,
+          "startColor": [
+            255,
+            0,
+            0,
+            1
+          ],
+          "stroke": 0,
+          "strokeColor": [
+            255,
+            255,
+            255,
+            1
+          ],
+          "underlineColor": {
+            "_alpha": 1,
+            "_rgb": [
+              255,
+              255,
+              255
+            ]
+          },
+          "underlineSpacing": 0,
+          "underlineWidth": 1
+        },
+        "value": "Target",
+        "name": "text_Target",
+        "scene": "scene3_endfail"
+      },
+      "e3cdeeaa-2638-45ed-abaf-fbdcfe9cb962_V": {
+        "style": {
+          "bold": true,
+          "color": [
+            255,
+            255,
+            255,
+            1
+          ],
+          "deletelineColor": {
+            "_alpha": 1,
+            "_rgb": [
+              255,
+              255,
+              255
+            ]
+          },
+          "deletelineSpacing": 0,
+          "deletelineWidth": 1,
+          "enableDeleteline": false,
+          "enableGlow": false,
+          "enableShadow": false,
+          "enableUnderline": false,
+          "endColor": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "font": "Arial",
+          "fontSize": 22,
+          "glowBlur": 1,
+          "glowColor": [
+            255,
+            0,
+            0,
+            1
+          ],
+          "gradient": false,
+          "italic": false,
+          "letterSpacing": 0,
+          "lineHeight": 1,
+          "lineSpacing": 0,
+          "shadowBlur": 10,
+          "shadowColor": [
+            0,
+            0,
+            0,
+            0.5019607843137255
+          ],
+          "shadowOffsetX": 3,
+          "shadowOffsetY": 3,
+          "startColor": [
+            255,
+            0,
+            0,
+            1
+          ],
+          "stroke": 0,
+          "strokeColor": [
+            255,
+            255,
+            255,
+            1
+          ],
+          "underlineColor": {
+            "_alpha": 1,
+            "_rgb": [
+              255,
+              255,
+              255
+            ]
+          },
+          "underlineSpacing": 0,
+          "underlineWidth": 1
+        },
+        "value": "Moves",
+        "name": "text_Moves",
+        "scene": "scene3_endfail"
+      },
+      "e3cdeeaa-2638-45ed-abaf-fbdcfe9cb962_H": {
+        "style": {
+          "bold": true,
+          "color": [
+            255,
+            255,
+            255,
+            1
+          ],
+          "deletelineColor": {
+            "_alpha": 1,
+            "_rgb": [
+              255,
+              255,
+              255
+            ]
+          },
+          "deletelineSpacing": 0,
+          "deletelineWidth": 1,
+          "enableDeleteline": false,
+          "enableGlow": false,
+          "enableShadow": false,
+          "enableUnderline": false,
+          "endColor": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "font": "Arial",
+          "fontSize": 22,
+          "glowBlur": 1,
+          "glowColor": [
+            255,
+            0,
+            0,
+            1
+          ],
+          "gradient": false,
+          "italic": false,
+          "letterSpacing": 0,
+          "lineHeight": 1,
+          "lineSpacing": 0,
+          "shadowBlur": 10,
+          "shadowColor": [
+            0,
+            0,
+            0,
+            0.5019607843137255
+          ],
+          "shadowOffsetX": 3,
+          "shadowOffsetY": 3,
+          "startColor": [
+            255,
+            0,
+            0,
+            1
+          ],
+          "stroke": 0,
+          "strokeColor": [
+            255,
+            255,
+            255,
+            1
+          ],
+          "underlineColor": {
+            "_alpha": 1,
+            "_rgb": [
+              255,
+              255,
+              255
+            ]
+          },
+          "underlineSpacing": 0,
+          "underlineWidth": 1
+        },
+        "value": "Moves",
+        "name": "text_Moves",
+        "scene": "scene3_endfail"
+      },
+      "10b07f50-37d1-45d0-ba3d-aaedf738fc12_V": {
+        "style": {
+          "bold": true,
+          "color": [
+            132,
+            194,
+            106,
+            1
+          ],
+          "deletelineColor": {
+            "_alpha": 1,
+            "_rgb": [
+              132,
+              194,
+              106
+            ]
+          },
+          "deletelineSpacing": 0,
+          "deletelineWidth": 1,
+          "enableDeleteline": false,
+          "enableGlow": false,
+          "enableShadow": false,
+          "enableUnderline": false,
+          "endColor": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "font": "KingnamBobo-Black",
+          "fontSize": 24,
+          "glowBlur": 1,
+          "glowColor": [
+            255,
+            0,
+            0,
+            1
+          ],
+          "gradient": false,
+          "italic": false,
+          "letterSpacing": 0,
+          "lineHeight": 1,
+          "lineSpacing": 0,
+          "shadowBlur": 10,
+          "shadowColor": [
+            0,
+            0,
+            0,
+            0.5019607843137255
+          ],
+          "shadowOffsetX": 3,
+          "shadowOffsetY": 3,
+          "startColor": [
+            255,
+            0,
+            0,
+            1
+          ],
+          "stroke": 11,
+          "strokeColor": [
+            255,
+            255,
+            255,
+            1
+          ],
+          "underlineColor": {
+            "_alpha": 1,
+            "_rgb": [
+              132,
+              194,
+              106
+            ]
+          },
+          "underlineSpacing": 0,
+          "underlineWidth": 1
+        },
+        "value": "x0",
+        "name": "text_X4",
+        "scene": "scene3_endfail"
+      },
+      "10b07f50-37d1-45d0-ba3d-aaedf738fc12_H": {
+        "style": {
+          "bold": true,
+          "color": [
+            132,
+            194,
+            106,
+            1
+          ],
+          "deletelineColor": {
+            "_alpha": 1,
+            "_rgb": [
+              132,
+              194,
+              106
+            ]
+          },
+          "deletelineSpacing": 0,
+          "deletelineWidth": 1,
+          "enableDeleteline": false,
+          "enableGlow": false,
+          "enableShadow": false,
+          "enableUnderline": false,
+          "endColor": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "font": "KingnamBobo-Black",
+          "fontSize": 24,
+          "glowBlur": 1,
+          "glowColor": [
+            255,
+            0,
+            0,
+            1
+          ],
+          "gradient": false,
+          "italic": false,
+          "letterSpacing": 0,
+          "lineHeight": 1,
+          "lineSpacing": 0,
+          "shadowBlur": 10,
+          "shadowColor": [
+            0,
+            0,
+            0,
+            0.5019607843137255
+          ],
+          "shadowOffsetX": 3,
+          "shadowOffsetY": 3,
+          "startColor": [
+            255,
+            0,
+            0,
+            1
+          ],
+          "stroke": 11,
+          "strokeColor": [
+            255,
+            255,
+            255,
+            1
+          ],
+          "underlineColor": {
+            "_alpha": 1,
+            "_rgb": [
+              132,
+              194,
+              106
+            ]
+          },
+          "underlineSpacing": 0,
+          "underlineWidth": 1
+        },
+        "value": "x0",
+        "name": "text_X4",
+        "scene": "scene3_endfail"
+      },
+      "9e0d6879-e4eb-422e-91a9-cf5bf0560f6b_V": {
+        "style": {
+          "bold": true,
+          "color": [
+            255,
+            255,
+            255,
+            1
+          ],
+          "deletelineColor": {
+            "_alpha": 1,
+            "_rgb": [
+              255,
+              255,
+              255
+            ]
+          },
+          "deletelineSpacing": 0,
+          "deletelineWidth": 1,
+          "enableDeleteline": false,
+          "enableGlow": false,
+          "enableShadow": false,
+          "enableUnderline": false,
+          "endColor": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "font": "Arial",
+          "fontSize": 32,
+          "glowBlur": 1,
+          "glowColor": [
+            255,
+            0,
+            0,
+            1
+          ],
+          "gradient": false,
+          "italic": false,
+          "letterSpacing": 0,
+          "lineHeight": 1,
+          "lineSpacing": 0,
+          "shadowBlur": 10,
+          "shadowColor": [
+            0,
+            0,
+            0,
+            0.5019607843137255
+          ],
+          "shadowOffsetX": 3,
+          "shadowOffsetY": 3,
+          "startColor": [
+            255,
+            0,
+            0,
+            1
+          ],
+          "stroke": 0,
+          "strokeColor": [
+            220,
+            193,
+            145,
+            1
+          ],
+          "underlineColor": {
+            "_alpha": 1,
+            "_rgb": [
+              255,
+              255,
+              255
+            ]
+          },
+          "underlineSpacing": 0,
+          "underlineWidth": 1
+        },
+        "value": "Match3 to collect books",
+        "name": "text_Guidance",
+        "scene": "scene3_endfail"
+      },
+      "9e0d6879-e4eb-422e-91a9-cf5bf0560f6b_H": {
+        "style": {
+          "bold": true,
+          "color": [
+            255,
+            255,
+            255,
+            1
+          ],
+          "deletelineColor": {
+            "_alpha": 1,
+            "_rgb": [
+              255,
+              255,
+              255
+            ]
+          },
+          "deletelineSpacing": 0,
+          "deletelineWidth": 1,
+          "enableDeleteline": false,
+          "enableGlow": false,
+          "enableShadow": false,
+          "enableUnderline": false,
+          "endColor": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "font": "Arial",
+          "fontSize": 32,
+          "glowBlur": 1,
+          "glowColor": [
+            255,
+            0,
+            0,
+            1
+          ],
+          "gradient": false,
+          "italic": false,
+          "letterSpacing": 0,
+          "lineHeight": 1,
+          "lineSpacing": 0,
+          "shadowBlur": 10,
+          "shadowColor": [
+            0,
+            0,
+            0,
+            0.5019607843137255
+          ],
+          "shadowOffsetX": 3,
+          "shadowOffsetY": 3,
+          "startColor": [
+            255,
+            0,
+            0,
+            1
+          ],
+          "stroke": 0,
+          "strokeColor": [
+            220,
+            193,
+            145,
+            1
+          ],
+          "underlineColor": {
+            "_alpha": 1,
+            "_rgb": [
+              255,
+              255,
+              255
+            ]
+          },
+          "underlineSpacing": 0,
+          "underlineWidth": 1
+        },
+        "value": "Match3 to collect books",
+        "name": "text_Guidance",
+        "scene": "scene3_endfail"
+      },
+      "004638c5-c5b0-4797-905b-4df7ad3a23e4_V": {
+        "style": {
+          "bold": false,
+          "color": [
+            51,
+            51,
+            51,
+            1
+          ],
+          "deletelineColor": [],
+          "deletelineSpacing": 0,
+          "deletelineWidth": 1,
+          "enableDeleteline": false,
+          "enableGlow": false,
+          "enableShadow": false,
+          "enableUnderline": false,
+          "endColor": [
+            60,
+            60,
+            60,
+            1
+          ],
+          "font": "KingnamBobo-Black",
+          "fontSize": 48,
+          "glowBlur": 1,
+          "glowColor": [
+            255,
+            0,
+            0,
+            1
+          ],
+          "gradient": true,
+          "italic": false,
+          "letterSpacing": 0,
+          "lineHeight": 1,
+          "lineSpacing": 0,
+          "shadowBlur": 10,
+          "shadowColor": [
+            0,
+            0,
+            0,
+            0.5019607843137255
+          ],
+          "shadowOffsetX": 3,
+          "shadowOffsetY": 3,
+          "startColor": [
+            130,
+            130,
+            130,
+            1
+          ],
+          "stroke": 0,
+          "strokeColor": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "underlineColor": [],
+          "underlineSpacing": 0,
+          "underlineWidth": 1
+        },
+        "value": "You lose!",
+        "name": "text_You lose",
+        "scene": "scene3_endfail"
+      },
+      "004638c5-c5b0-4797-905b-4df7ad3a23e4_H": {
+        "style": {
+          "bold": false,
+          "color": [
+            51,
+            51,
+            51,
+            1
+          ],
+          "deletelineColor": [],
+          "deletelineSpacing": 0,
+          "deletelineWidth": 1,
+          "enableDeleteline": false,
+          "enableGlow": false,
+          "enableShadow": false,
+          "enableUnderline": false,
+          "endColor": [
+            60,
+            60,
+            60,
+            1
+          ],
+          "font": "KingnamBobo-Black",
+          "fontSize": 48,
+          "glowBlur": 1,
+          "glowColor": [
+            255,
+            0,
+            0,
+            1
+          ],
+          "gradient": true,
+          "italic": false,
+          "letterSpacing": 0,
+          "lineHeight": 1,
+          "lineSpacing": 0,
+          "shadowBlur": 10,
+          "shadowColor": [
+            0,
+            0,
+            0,
+            0.5019607843137255
+          ],
+          "shadowOffsetX": 3,
+          "shadowOffsetY": 3,
+          "startColor": [
+            130,
+            130,
+            130,
+            1
+          ],
+          "stroke": 0,
+          "strokeColor": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "underlineColor": [],
+          "underlineSpacing": 0,
+          "underlineWidth": 1
+        },
+        "value": "You lose!",
+        "name": "text_You lose",
+        "scene": "scene3_endfail"
+      },
+      "55f6c845-02e7-4776-aff1-08a8467ae3c3_V": {
+        "style": {
+          "bold": true,
+          "color": [
+            255,
+            255,
+            255,
+            1
+          ],
+          "deletelineColor": {
+            "_alpha": 1,
+            "_rgb": [
+              255,
+              255,
+              255
+            ]
+          },
+          "deletelineSpacing": 0,
+          "deletelineWidth": 1,
+          "enableDeleteline": false,
+          "enableGlow": false,
+          "enableShadow": false,
+          "enableUnderline": false,
+          "endColor": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "font": "Arial",
+          "fontSize": 48,
+          "glowBlur": 1,
+          "glowColor": [
+            255,
+            0,
+            0,
+            1
+          ],
+          "gradient": false,
+          "italic": false,
+          "letterSpacing": 0,
+          "lineHeight": 1,
+          "lineSpacing": 0,
+          "shadowBlur": 10,
+          "shadowColor": [
+            0,
+            0,
+            0,
+            0.5019607843137255
+          ],
+          "shadowOffsetX": 3,
+          "shadowOffsetY": 3,
+          "startColor": [
+            255,
+            0,
+            0,
+            1
+          ],
+          "stroke": 0,
+          "strokeColor": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "underlineColor": {
+            "_alpha": 1,
+            "_rgb": [
+              255,
+              255,
+              255
+            ]
+          },
+          "underlineSpacing": 0,
+          "underlineWidth": 1
+        },
+        "value": "Replay",
+        "name": "text_nextlevel",
+        "scene": "scene3_endfail"
+      },
+      "55f6c845-02e7-4776-aff1-08a8467ae3c3_H": {
+        "style": {
+          "bold": true,
+          "color": [
+            255,
+            255,
+            255,
+            1
+          ],
+          "deletelineColor": {
+            "_alpha": 1,
+            "_rgb": [
+              255,
+              255,
+              255
+            ]
+          },
+          "deletelineSpacing": 0,
+          "deletelineWidth": 1,
+          "enableDeleteline": false,
+          "enableGlow": false,
+          "enableShadow": false,
+          "enableUnderline": false,
+          "endColor": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "font": "Arial",
+          "fontSize": 48,
+          "glowBlur": 1,
+          "glowColor": [
+            255,
+            0,
+            0,
+            1
+          ],
+          "gradient": false,
+          "italic": false,
+          "letterSpacing": 0,
+          "lineHeight": 1,
+          "lineSpacing": 0,
+          "shadowBlur": 10,
+          "shadowColor": [
+            0,
+            0,
+            0,
+            0.5019607843137255
+          ],
+          "shadowOffsetX": 3,
+          "shadowOffsetY": 3,
+          "startColor": [
+            255,
+            0,
+            0,
+            1
+          ],
+          "stroke": 0,
+          "strokeColor": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "underlineColor": {
+            "_alpha": 1,
+            "_rgb": [
+              255,
+              255,
+              255
+            ]
+          },
+          "underlineSpacing": 0,
+          "underlineWidth": 1
+        },
+        "value": "Replay",
+        "name": "text_nextlevel",
+        "scene": "scene3_endfail"
+      },
+      "93d72d52-a3af-4fad-a5ff-c90a02d649a0_V": {
+        "style": {
+          "fontSize": 26,
+          "color": [
+            255,
+            255,
+            255,
+            1
+          ],
+          "stroke": 6,
+          "strokeColor": [
+            101,
+            71,
+            7,
+            1
+          ],
+          "bold": true,
+          "italic": false,
+          "enableShadow": false,
+          "shadowColor": [
+            0,
+            0,
+            0,
+            0.5019607843137255
+          ],
+          "shadowBlur": 10,
+          "shadowOffsetX": 3,
+          "shadowOffsetY": 3,
+          "gradient": false,
+          "startColor": [
+            255,
+            0,
+            0,
+            1
+          ],
+          "endColor": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "enableGlow": false,
+          "glowColor": [
+            255,
+            0,
+            0,
+            1
+          ],
+          "glowBlur": 1,
+          "lineSpacing": 0,
+          "enableUnderline": false,
+          "underlineColor": {
+            "_alpha": 1,
+            "_rgb": [
+              255,
+              255,
+              255
+            ]
+          },
+          "underlineWidth": 1,
+          "underlineSpacing": 0,
+          "enableDeleteline": false,
+          "deletelineColor": {
+            "_alpha": 1,
+            "_rgb": [
+              255,
+              255,
+              255
+            ]
+          },
+          "deletelineWidth": 1,
+          "deletelineSpacing": 0,
+          "letterSpacing": 0,
+          "lineHeight": 1,
+          "font": "Arial"
+        },
+        "value": "DOWNLOAD",
+        "name": "text_21",
+        "scene": "Global Scene"
+      },
+      "93d72d52-a3af-4fad-a5ff-c90a02d649a0_H": {
+        "style": {
+          "fontSize": 26,
+          "color": [
+            255,
+            255,
+            255,
+            1
+          ],
+          "stroke": 6,
+          "strokeColor": [
+            101,
+            71,
+            7,
+            1
+          ],
+          "bold": true,
+          "italic": false,
+          "enableShadow": false,
+          "shadowColor": [
+            0,
+            0,
+            0,
+            0.5019607843137255
+          ],
+          "shadowBlur": 10,
+          "shadowOffsetX": 3,
+          "shadowOffsetY": 3,
+          "gradient": false,
+          "startColor": [
+            255,
+            0,
+            0,
+            1
+          ],
+          "endColor": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "enableGlow": false,
+          "glowColor": [
+            255,
+            0,
+            0,
+            1
+          ],
+          "glowBlur": 1,
+          "lineSpacing": 0,
+          "enableUnderline": false,
+          "underlineColor": {
+            "_alpha": 1,
+            "_rgb": [
+              255,
+              255,
+              255
+            ]
+          },
+          "underlineWidth": 1,
+          "underlineSpacing": 0,
+          "enableDeleteline": false,
+          "deletelineColor": {
+            "_alpha": 1,
+            "_rgb": [
+              255,
+              255,
+              255
+            ]
+          },
+          "deletelineWidth": 1,
+          "deletelineSpacing": 0,
+          "letterSpacing": 0,
+          "lineHeight": 1,
+          "font": "Arial"
+        },
+        "value": "DOWNLOAD",
+        "name": "text_21",
+        "scene": "Global Scene"
+      }
+    }
+  },
+  "selfDevToPs": false
+}

@@ -1,0 +1,51 @@
+<!DOCTYPE html><html><head>
+    <meta charset="UTF-8"/>
+    <meta name="copyright" content="playsmart"/>
+    <meta name="projectId" content="57xtpwl797"/>
+    <meta name="template-version" content="v10.6.23.0"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+    <meta name="viewport" content="width=device-width,user-scalable=no"/>
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <meta name="apple-mobile-web-app-title" content="libProject"/>
+    <title>Mintegral Interactive Ad</title>
+</head>
+<body mark="mobvista"><script src="js/mw_config.js"></script>
+<script src="js/package-loading.js"></script>
+<script src="js/dynamic-loader.js"></script>
+<script src="js/mtg-offline-package.js"></script>
+
+    <script src="Assets/meta/globalUrlMap.js"></script>
+    <script src="lib/phaser.min.js"></script>
+    <script src="lib/webfontloader.js"></script>
+    <script src="lib/qc-core-min.js"></script>
+    <script src="lib/qc-webgl.js"></script>
+    <script src="lib/PlaySmartEditorData.js"></script>
+    <script src="picDesc.js"></script>
+    <script src="data.js"></script>
+<script id="resource-loader-js" src="js/resource-loader.js"></script>
+    <script src="Assets/meta/assetCountMap.js"></script>
+    <script src="js/game-scripts.min.js"></script>
+
+
+    <style>
+        html,
+        body {padding: 0;margin: 0;width: 100%;height: 100%;}
+    </style>
+    <div style="overflow:hidden;padding:0;margin:0;width:100%;height:100%;">
+        <div id="gameDiv" style="position:relative;"></div>
+    </div>
+    <script src="lib/qc-loading-debug.js"></script>
+    <script>
+        // 跳转场景逻辑
+        document.addEventListener('PLAYABLE:switchScene', function (customEvent) {
+            // 需要跳转的场景
+            const scene = String(customEvent.detail.scene)
+            // 素材跳转逻辑， 因为涉及到玩法场景和全局场景，需要通过 ps.GameState.SCENECHANGE 来切换场景
+            ps.mainState.dispatch(ps.GameState.SCENECHANGE, scene);
+        })
+    </script>
+    <script>qici.config.useLanguages = true;</script> 
+<script src="libs/expand/languagesMgr/languagesMgr.js"></script>
+
+</body></html>
